@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/opt/miniconda3/envs/summer_research/bin/python",
+  "jupyter.jupyterServerType": "local"
+}
